@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.music-box{
+    margin: 5px 18px 0px 0px;
+    width: 440px;
+}
+
+.music-cover{
+    width: 120px;
+}
+
+#audio-box{
+    position: relative;
+    bottom: -10px;
+}
